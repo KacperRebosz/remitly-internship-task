@@ -1,6 +1,6 @@
 # Remitly 2024 summer internship assignment
 
-This program validates AWS IAM policies against a set of rules, including a specific check for single asterisks (`*`) in the Resource field as per the assignment requirement.
+This program validates AWS IAM policies against a set of rules, including a specific check for single asterisk (`*`) in the Resource field as per the assignment requirement.
 
 ## Key Features
 
