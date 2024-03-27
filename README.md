@@ -27,12 +27,12 @@ This program validates AWS IAM policies against a set of rules, including a spec
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/KacperRebosz/remitly-internship2024-assignment
+    git clone https://github.com/KacperRebosz/remitly-internship-task
     ```
 
 2.  Navigate to the project directory:
     ```bash
-    cd remitly-internship2024-assignment
+    cd remitly-internship-task
     ```
 
 3.  Install dependencies:
